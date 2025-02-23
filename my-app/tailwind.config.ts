@@ -19,7 +19,7 @@ const config = {
       },
     },
     extend: {
-      colors: {
+      colors: {        
         fill: {
           1: "rgba(255, 255, 255, 0.10)",
         },
