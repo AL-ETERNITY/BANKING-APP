@@ -13,7 +13,7 @@ Here are some previews of Horizon in action:
 ![Screenshot 1](./screenshots/home.png)
 
 ### Screenshot 2
-![Screenshot 2](./screenshots/bank.png)
+![Screenshot 2](./screenshots/banks.png)
 
 ### Screenshot 3
 ![Screenshot 3](./screenshots/payment-transfer.png)
