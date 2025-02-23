@@ -4,16 +4,16 @@ Welcome to **Horizon**, a modern web application built with Next.js, TypeScript,
 
 ## Live Demo
 
-🚀 **[Check out Horizon live](https://horizon-plum-nu.vercel.app/)**
+🚀 **[Check out Horizon live](https://horizon-ashen.vercel.app/)**
 
 ## Screenshots
 
 Here are some previews of Horizon in action:
 
-![Screenshot 1](./screenshots/home.png)
-![Screenshot 2](./screenshots/my-banks.png)
-![Screenshot 3](./screenshots/transaction-history.png)
-![Screenshot 4](./screenshots/payment-transfer.png)
+![Screenshot 1]("C:\Users\Siddhant\Pictures\Screenshots\Screenshot 2025-02-23 172350.png")
+![Screenshot 2]("C:\Users\Siddhant\Pictures\Screenshots\Screenshot 2025-02-23 172416.png")
+![Screenshot 3]("C:\Users\Siddhant\Pictures\Screenshots\Screenshot 2025-02-23 172450.png")
+![Screenshot 4]("C:\Users\Siddhant\Pictures\Screenshots\Screenshot 2025-02-23 172508.png")
 
 ## Features
 
