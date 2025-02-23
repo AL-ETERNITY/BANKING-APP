@@ -9,11 +9,17 @@ Welcome to **Horizon**, a modern web application built with Next.js, TypeScript,
 ## Screenshots
 
 Here are some previews of Horizon in action:
+### Screenshot 1
+![Screenshot 1](./Screenshots/home.png)
 
-![Screenshot 1]("C:\Users\Siddhant\Pictures\Screenshots\Screenshot 2025-02-23 172350.png")
-![Screenshot 2]("C:\Users\Siddhant\Pictures\Screenshots\Screenshot 2025-02-23 172416.png")
-![Screenshot 3]("C:\Users\Siddhant\Pictures\Screenshots\Screenshot 2025-02-23 172450.png")
-![Screenshot 4]("C:\Users\Siddhant\Pictures\Screenshots\Screenshot 2025-02-23 172508.png")
+### Screenshot 2
+![Screenshot 2](./Screenshots/bank.png)
+
+### Screenshot 3
+![Screenshot 3](./Screenshots/payment-transfer.png)
+
+### Screenshot 4
+![Screenshot 4](./Screenshots/transfer-funds.png)
 
 ## Features
 
